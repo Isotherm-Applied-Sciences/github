@@ -1,3 +1,9 @@
+**Deterministic systems for continuity, provenance, and trust.**
+
+# Isotherm Applied Sciences Inc.
+...
+
+
 # Isotherm Applied Sciences Inc.
 
 Isotherm Applied Sciences is an independent engineering studio focused on building deterministic, transparent, and minimal‑systems software. Our work centers on identity, provenance, verification, and continuity tools designed for collectors, archivists, institutions, and developers.
