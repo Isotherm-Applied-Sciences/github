@@ -39,9 +39,6 @@ A secure identity and access continuity tool.
 ### Gradient Engine  
 A deterministic gradient‑based computation and transformation framework.
 
-### UpFlow  
-A conceptual electric‑nutrition drink system and countertop printer.
-
 ---
 
 ## Engineering Philosophy
